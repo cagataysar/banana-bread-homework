@@ -1,0 +1,56 @@
+.navClass {
+    padding-left: 180px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    font-size: 23px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #fdca40;
+}
+
+.divInArt  {
+    margin-left: 340px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.headerSec {
+    padding-top: 50px;
+    font-size: 70px;
+    color: aliceblue;
+    text-align: center;
+    width: auto;
+    height: 400px;
+    background-image:url(https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80) ;
+}
+
+.inputClass {
+    height: 30px;
+    width: 300px;
+}
+
+
+
+a {
+    padding-left: 50px;
+    text-decoration: none;
+}
+
+li {
+    margin-top: 20px;
+}
+
+.divInFoot {
+    font-family: 'Roboto', sans-serif;
+    float: left;
+    margin-left: 200px;  
+    width: auto;
+    height: 300px;
+}
+
+.divSecFoot {
+    height: 300px;
+    background-image: url(https://images.unsplash.com/photo-1495195134817-aeb325a55b65?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80);
+}
+
+
+
